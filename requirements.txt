@@ -1,0 +1,8 @@
+checksumdir==1.2.0
+colorama==0.4.4
+colored==1.4.2
+console==0.9907
+discord_rpc==3.0
+pyunpack==0.2.2
+requests==2.26.0
+urllib3==1.26.6
