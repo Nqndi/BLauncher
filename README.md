@@ -17,14 +17,14 @@
         <li>Töltsd le a Python 3.7.9-es verzióját <i><a href="https://www.python.org/downloads/release/python-379/">(ez itt is megtalálható)</a></i></li>
         <li>
             Futtasd le a következő parancsot a mappában ahova letöltötted a fájlokat:<br/>
-            <pre><code class="language-shell">$ pip -r requirements.txt</code></pre>
+            <pre><code class="language-shell">$ pip install -r requirements.txt</code></pre>
         </li>
         <li>
             Indítsd el a <code>build_launcher.bat</code> fájlt
         </li>
     </ol>
     <b>VAGY</b>
-    Egy előre megépített fájlt a <a href="https://discord.gg/HkYufRnAsp">BLauncher Discord szerverről tudsz letölteni</a>.
+    Egy előre megépített fájlt a <a href="https://discord.gg/HkYufRnAsp">BLauncher Discord szerverről</a> tudsz letölteni.
     <br/><br/>
 </div>
 
