@@ -648,7 +648,7 @@ class Main:
             var.rc = 'dc'
             self.options()
         elif option == '3':
-            var.client = 'Cheatbreaker'
+            var.client = 'CheatBreaker'
             self.options()
         elif option == '4':
             var.client = 'Melon'
